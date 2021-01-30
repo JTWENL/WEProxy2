@@ -1,3 +1,6 @@
 [submodule "dist/similarItems"]
 	path = dist/similarItems
 	url = https://github.com/JTWENL/similarItems.git
+[submodule "reviews-service"]
+	path = reviews-service
+	url = https://github.com/JTWENL/reviews-service.git
